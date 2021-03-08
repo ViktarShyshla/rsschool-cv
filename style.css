@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 80rem;
+    margin: auto;
+}
+.name {
+    font-size: 2rem;
+}
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 10rem;
+}
+.email {
+    margin: 0;
+    font-size: 1.5rem;
+}
+a {
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+p {
+    font-size: 1.25rem;
+}
+li {
+    font-size: 1.25rem;
+
+}
+img {
+    width: 15rem;
+    position: absolute;
+    left: 50%;
+}
